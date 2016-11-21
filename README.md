@@ -29,7 +29,7 @@ Docker images:
  * `base` - a simple image setting up the user and basic environment
 
 ## A simple script
-<a href="./download_test.txt" download="tfrun">Download TFrun</button>  
+<a href="./download_test.txt" download="tfrun">Download TFrun</a>  
 
 ## Acknowledgements
 
